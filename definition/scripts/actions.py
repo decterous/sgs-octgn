@@ -11,12 +11,11 @@ from System import Text
 #---------------------------------------------------------------------------
 
 phases = [
-    "It is now the Pre-game Setup Phase",
-    "It is now {}'s UNTAP Step",
-    "It is now {}'s UPKEEP Step",
-    "It is now {}'s DRAW Step",
-    "It is now {}'s MAIN Phase",
-    "It is now {}'s ENDING Phase"]
+    "现在是游戏准备阶段",
+    "现在是 {} 的开始阶段中的重置",
+    "现在是 {} 的开始阶段中的抽牌",
+    "现在是 {} 的行动阶段",
+    "现在是 {} 的结束阶段"]
 
 AttackColor = "#ff0000"
 BlockColor = "#00ff00"
@@ -143,7 +142,7 @@ def showCurrentPhase(group, x = 0, y = 0):
 
 def nextPhase(group, x = 0, y = 0):
     global phaseIdx
-    if phaseIdx == 5:
+    if phaseIdx == 4:
         phaseIdx = 1
     else:
         phaseIdx += 1

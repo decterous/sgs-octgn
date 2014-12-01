@@ -108,8 +108,8 @@
     <cardaction menu="Check Card Rulings (on Gatherer)" execute="rulings" />
   </table>
   <player summary="L{#Life}|H{#Hand}|C{#General}">
-    <counter name="Life" icon="counters/life.png" default="30" />
-    <counter name="Hand" icon="counters/life.png" default="5" />
+    <counter name="Life" icon="counters/Magatama.png" default="30" />
+    <counter name="Hand" icon="counters/life.png" default="7" />
     <counter name="Wei" icon="counters/blue.png" />
     <counter name="Shu" icon="counters/red.png" />
     <counter name="Wu" icon="counters/green.png" />
