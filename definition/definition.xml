@@ -107,13 +107,13 @@
     </cardactions>
     <cardaction menu="Check Card Rulings (on Gatherer)" execute="rulings" />
   </table>
-  <player summary="L{#Life}|H{#Hand}|C{#General}">
-    <counter name="Life" icon="counters/Magatama.png" default="30" />
-    <counter name="Hand" icon="counters/life.png" default="7" />
-    <counter name="Wei" icon="counters/blue.png" />
-    <counter name="Shu" icon="counters/red.png" />
-    <counter name="Wu" icon="counters/green.png" />
-    <counter name="Qun" icon="counters/colorless.png" />
+  <player summary="L{#生命}|H{#手牌}|C{#General}">
+    <counter name="生命" icon="counters/Magatama.png" default="30" />
+    <counter name="手牌" icon="counters/hand.png" default="7" />
+    <counter name="魏国影响力" icon="counters/wei.png" />
+    <counter name="蜀国影响力" icon="counters/shu.png" />
+    <counter name="吴国影响力" icon="counters/wu.png" />
+    <counter name="群雄影响力" icon="counters/qun.png" />
     <counter name="General" icon="counters/general.png" />
 	<globalvariable name="mulligans" value="False" />
 	<globalvariable name="f6" value="False" />

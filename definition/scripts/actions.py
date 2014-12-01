@@ -184,23 +184,25 @@ def goToEnding(group, x = 0, y = 0):
     showCurrentPhase(group)
 
 def lose1Life(group, x = 0, y = 0):
-    me.life -= 1
+    mute()
+    me.生命 -= 1
+    notify("{} 失去 1 点生命，现在他/她有 {} 点生命".format(me,me.生命))
 
 def gain1Life(group, x = 0, y = 0):
-    me.life += 1
+    mute()
+    me.生命 += 1
+    notify("{} 获得 1 点生命，现在他/她有 {} 点生命".format(me,me.生命))
 
 def rstGame(group, x = 0, y = 0):
     mute()
     if not confirm("Are you sure you want to scoop?"):
         return
-    me.life = 30
-    me.poison = 0
-    me.white = 0
-    me.blue = 0
-    me.black = 0
-    me.red = 0
-    me.green = 0
-    me.colorless = 0
+    me.生命 = 30
+    me.手牌 = 7
+    me.魏国影响力 = 0
+    me.蜀国影响力 = 0
+    me.吴国影响力 = 0
+    me.群雄影响力 = 0
     me.general = 0
     me.setGlobalVariable("mulligans","False")
     for card in me.Library:
@@ -220,7 +222,7 @@ def rstGame(group, x = 0, y = 0):
         if card.isFaceUp:
             card.isFaceUp = False
     me.Library.shuffle()
-    notify("{} reset game.".format(me))
+    notify("{} 重置了游戏.".format(me))
 	
 
 def clearAll(group, x = 0, y = 0):
