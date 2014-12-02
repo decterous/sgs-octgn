@@ -17,8 +17,8 @@
   </packaging>
   <cards>
     <card name="霸者的威光" id="748475ec-6fa0-4994-8aed-39db57e6d1a8">
-      <property name="Cost" value="##5"/>
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5"/>
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Mythic Rare" />
@@ -30,8 +30,8 @@
       <property name="MultiverseId" value="1001" />
     </card>
     <card name="丞相精锐" id="9cbe9acf-18be-4d51-b440-4689c1bbfc14">
-      <property name="Cost" value="##5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -47,8 +47,8 @@
       <property name="MultiverseId" value="1002" />
     </card>
     <card name="程昱" id="e2c26497-1b53-405f-a0a5-e016b7f04c2e">
-      <property name="Cost" value="##3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="军师" />
@@ -63,8 +63,8 @@
       <property name="MultiverseId" value="1003" />
     </card>
     <card name="敕令流放" id="91013140-8cb6-4d86-9d91-0d1832091e99">
-      <property name="Cost" value="##5"/>
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5"/>
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -76,8 +76,8 @@
       <property name="MultiverseId" value="1004" />
     </card>
     <card name="独眼罗刹·夏侯惇" id="7a6bb204-2a97-48ac-9e85-1edbf2f8e3d0">
-      <property name="Cost" value="###7" />
-      <property name="CMC" value="7" />
+      <property name="Cost" value="7" />
+      <property name="FPoint" value="3" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将 General" />
@@ -92,8 +92,8 @@
       <property name="MultiverseId" value="1005" />
     </card>
     <card name="奋强突固·乐进" id="7be494af-addf-4075-a4fb-f20c7bccf7ff">
-      <property name="Cost" value="##4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将/五子良将" />
@@ -108,8 +108,8 @@
       <property name="MultiverseId" value="1006" />
     </card>
     <card name="过河拆桥" id="a8b663b2-309a-4688-83f6-bf8d9bd80f63">
-      <property name="Cost" value="#2"/>
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2"/>
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Rare" />
@@ -121,8 +121,8 @@
       <property name="MultiverseId" value="1007" />
     </card>
     <card name="韩浩" id="7beee3e4-75de-4cfe-a073-3614967b9980">
-      <property name="Cost" value="#2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -137,8 +137,8 @@
       <property name="MultiverseId" value="1008" />
     </card>
     <card name="后备虎骑" id="985f3689-d763-4a5f-b9bd-5e63b9369a35">
-      <property name="Cost" value="#2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="骑兵" />
@@ -153,8 +153,8 @@
       <property name="MultiverseId" value="1009" />
     </card>
     <card name="虎卫·典韦" id="a9d38126-0221-4e9c-8d33-a0b8c403883c">
-      <property name="Cost" value="##6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -170,8 +170,8 @@
       <property name="MultiverseId" value="1010" />
     </card>
     <card name="急行军" id="2bb279c4-808d-4c0f-95a3-a6ff8695b948">
-      <property name="Cost" value="#1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -182,8 +182,8 @@
       <property name="MultiverseId" value="1011" />
     </card>
     <card name="降服" id="50e76ecc-476a-4194-beea-f31c137f2e4a">
-      <property name="Cost" value="##7" />
-      <property name="CMC" value="7" />
+      <property name="Cost" value="7" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Rare" />
@@ -194,8 +194,8 @@
       <property name="MultiverseId" value="1012" />
     </card>
     <card name="倔强老兵" id="e4f07fb2-37f2-43bf-aba8-449da8c936a4">
-      <property name="Cost" value="#3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -211,8 +211,8 @@
       <property name="MultiverseId" value="1013" />
     </card>
     <card name="看破" id="7fcd40c5-5eb0-44d7-a14a-a8d212c348b1">
-      <property name="Cost" value="#2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -224,8 +224,8 @@
       <property name="MultiverseId" value="1014" />
     </card>
     <card name="南狐太守·李典" id="86839f2f-e338-4a0f-8ef7-4b5bab81c81a">
-      <property name="Cost" value="#3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -240,8 +240,8 @@
       <property name="MultiverseId" value="1015" />
     </card>
     <card name="力尽" id="4b067091-d008-4045-9e11-f001b45c7505">
-      <property name="Cost" value="#2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Uncommon" />
@@ -252,8 +252,8 @@
       <property name="MultiverseId" value="1016" />
     </card>
     <card name="乱世奸雄·曹操" id="a905e70a-051a-47ef-b744-769af64f9a6c">
-      <property name="Cost" value="##5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="主公" />
@@ -269,8 +269,8 @@
       <property name="MultiverseId" value="1017" />
     </card>
     <card name="满宠" id="06fbbccf-c90d-4219-8d3e-64d6adb7a270">
-      <property name="Cost" value="#3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -286,8 +286,8 @@
       <property name="MultiverseId" value="1018" />
     </card>
     <card name="鸣金收兵" id="095c1f0e-ba03-4ffa-892b-8aa82a440524">
-      <property name="Cost" value="##5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Rare" />
@@ -298,8 +298,8 @@
       <property name="MultiverseId" value="1019" />
     </card>
     <card name="齐心积力" id="fd9d2990-6089-4890-b5c1-34a498085141">
-      <property name="Cost" value="##4"/>
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4"/>
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -311,8 +311,8 @@
       <property name="MultiverseId" value="1020" />
     </card>
     <card name="青州哨卫" id="0689588b-c788-4217-9cfa-79919c4873cd">
-      <property name="Cost" value="#2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -328,8 +328,8 @@
       <property name="MultiverseId" value="1021" />
     </card>
     <card name="青州探马" id="92270b81-200b-4816-a947-48f23a517ced">
-      <property name="Cost" value="#1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="斥候" />
@@ -344,8 +344,8 @@
       <property name="MultiverseId" value="1022" />
     </card>
     <card name="司隶步兵" id="95db0b4a-2c5c-467e-81c6-983d669f79c5">
-      <property name="Cost" value="#3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -361,8 +361,8 @@
       <property name="MultiverseId" value="1023" />
     </card>
     <card name="同袍组" id="ff11f5af-b14c-483c-83aa-b99c6acdf509">
-      <property name="Cost" value="#3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -378,8 +378,8 @@
       <property name="MultiverseId" value="1024" />
     </card>
     <card name="屯骑营" id="3416fce3-46b0-4ee9-819f-edb20a9f2590">
-      <property name="Cost" value="##5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="骑兵" />
@@ -395,8 +395,8 @@
       <property name="MultiverseId" value="1025" />
     </card>
     <card name="屯田" id="83c046a2-015a-487f-acf4-6823fdcd15db">
-      <property name="Cost" value="#3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -407,8 +407,8 @@
       <property name="MultiverseId" value="1026" />
     </card>
     <card name="魏方阵兵团" id="ab61d302-c704-49dd-862e-4af65cf95297">
-      <property name="Cost" value="#4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -423,8 +423,8 @@
       <property name="MultiverseId" value="1027" />
     </card>
     <card name="魏武精兵" id="c65689b1-98e8-4796-a63e-ad7251a92e59">
-      <property name="Cost" value="#1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -439,8 +439,8 @@
       <property name="MultiverseId" value="1028" />
     </card>
     <card name="魏新兵" id="5e48d003-0428-4fcf-923b-2c7ef8497090">
-      <property name="Cost" value="#1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -456,8 +456,8 @@
       <property name="MultiverseId" value="1029" />
     </card>
     <card name="文昭皇后·甄姬" id="b0cfc124-2c69-49c1-b30a-6d5c9e58abd2">
-      <property name="Cost" value="#1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="女性" />
@@ -472,8 +472,8 @@
       <property name="MultiverseId" value="1030" />
     </card>
     <card name="无懈可击" id="6f55fa36-2122-4f39-a45b-35e1de3e8920">
-      <property name="Cost" value="##3"/>
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3"/>
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -485,8 +485,8 @@
       <property name="MultiverseId" value="1031" />
     </card>
     <card name="新兵集阵" id="095067c1-071d-4504-a129-8e3f74144959">
-      <property name="Cost" value="#2"/>
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2"/>
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -497,8 +497,8 @@
       <property name="MultiverseId" value="1032" />
     </card>
     <card name="亚父之风·徐晃" id="b8f84af1-040b-4170-b977-3daac349f34f">
-      <property name="Cost" value="##5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将/五子良将" />
@@ -513,8 +513,8 @@
       <property name="MultiverseId" value="1033" />
     </card>
     <card name="一蹶不振" id="5f6c21c6-d505-4762-9835-97809d0a85b5">
-      <property name="Cost" value="#5"/>
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5"/>
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Common" />
@@ -525,8 +525,8 @@
       <property name="MultiverseId" value="1034" />
     </card>
     <card name="游击兵" id="fc408a98-24ff-4b4a-8052-6429e3dd4e68">
-      <property name="Cost" value="#2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="斥候" />
@@ -541,8 +541,8 @@
       <property name="MultiverseId" value="1035" />
     </card>
     <card name="于禁" id="e91aa7e6-b354-4162-a4fb-14169266bf64">
-      <property name="Cost" value="##5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将/五子良将" />
@@ -557,8 +557,8 @@
       <property name="MultiverseId" value="1036" />
     </card>
     <card name="御史中丞·陈群" id="f1e82cc1-ecf0-4e0b-9364-e5f2328a75d7">
-      <property name="Cost" value="#2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="文官" />
@@ -573,8 +573,8 @@
       <property name="MultiverseId" value="1037" />
     </card>
     <card name="臧霸" id="e263c40a-b10d-4756-bcc2-d2cc35f69e93">
-      <property name="Cost" value="#4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -589,8 +589,8 @@
       <property name="MultiverseId" value="1038" />
     </card>
     <card name="早终的先知·郭嘉" id="047d46e6-cb34-4c5c-8315-905c14b29636">
-      <property name="Cost" value="#2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="谋士" />
@@ -605,8 +605,8 @@
       <property name="MultiverseId" value="1039" />
     </card>
     <card name="召回" id="32e7c6aa-4ff8-4739-abf8-cdd7e38a4b3d">
-      <property name="Cost" value="#1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -618,8 +618,8 @@
       <property name="MultiverseId" value="1040" />
     </card>
     <card name="主将的鼓舞" id="b454d8ed-c1ff-4322-a40f-a418e1a4a821">
-      <property name="Cost" value="#4"/>
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4"/>
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -630,8 +630,8 @@
       <property name="MultiverseId" value="1041" />
     </card>
     <card name="安汉侯·王平" id="1f93d7a4-150b-49d4-a332-c0fea16881e5">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -647,8 +647,8 @@
       <property name="MultiverseId" value="1042" />
     </card>
     <card name="八阵演武" id="c33f5aba-2121-4c22-9b98-391aeb22e2c3">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Rare" />
@@ -659,8 +659,8 @@
       <property name="MultiverseId" value="1043" />
     </card>
     <card name="东州步兵" id="df619b84-8d73-4c7d-a55c-f9ab28d4adf2">
-      <property name="Cost" value="%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -675,8 +675,8 @@
       <property name="MultiverseId" value="1044" />
     </card>
     <card name="东州后军" id="ff33eeea-1aef-4cce-84cc-e835a713481f">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -691,8 +691,8 @@
       <property name="MultiverseId" value="1045" />
     </card>
     <card name="奋迅" id="947c5c33-9747-45f6-9d73-de584f14a050">
-      <property name="Cost" value="%%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -704,8 +704,8 @@
       <property name="MultiverseId" value="1046" />
     </card>
     <card name="身怀六甲·甘夫人" id="d819f8c6-b6df-4219-adf0-4682b966c9a9">
-      <property name="Cost" value="%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="女性" />
@@ -721,8 +721,8 @@
       <property name="MultiverseId" value="1047" />
     </card>
     <card name="关平" id="cbab3e1d-eb7a-4b3a-9251-cc5b0c8c2280">
-      <property name="Cost" value="%%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -738,8 +738,8 @@
       <property name="MultiverseId" value="1048" />
     </card>
     <card name="广纳良策" id="eb96486e-7fee-4e2f-ab0b-7b0a1eaf7e60">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -750,8 +750,8 @@
       <property name="MultiverseId" value="49" />
     </card>
     <card name="归隐杰女·黄月英" id="ee62225a-9404-46b0-80c1-ff411b66b983">
-      <property name="Cost" value="%%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="隐士/女性" />
@@ -767,8 +767,8 @@
       <property name="MultiverseId" value="1050" />
     </card>
     <card name="决斗" id="2fa813d3-a42c-483e-8e83-0bfc5ba0bfac">
-      <property name="Cost" value="%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -779,8 +779,8 @@
       <property name="MultiverseId" value="1051" />
     </card>
     <card name="廖化" id="5d938558-dd9f-4719-b883-6dccef523502">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将 General" />
@@ -796,8 +796,8 @@
       <property name="MultiverseId" value="1052" />
     </card>
     <card name="乱世枭雄·刘备" id="1e5a08d9-cc19-4ba5-9d3d-3006c67ae303">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="主公" />
@@ -813,8 +813,8 @@
       <property name="MultiverseId" value="1053" />
     </card>
     <card name="骂阵兵" id="7a1fafa5-8680-4e99-b4e3-ac8807bb54eb">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -830,8 +830,8 @@
       <property name="MultiverseId" value="1054" />
     </card>
     <card name="美髯公·关羽" id="fd6ad375-104f-4cfc-a3c6-58fd9058fc53">
-      <property name="Cost" value="%%%7" />
-      <property name="CMC" value="7" />
+      <property name="Cost" value="7" />
+      <property name="FPoint" value="3" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将/五虎将" />
@@ -846,8 +846,8 @@
       <property name="MultiverseId" value="1055" />
     </card>
     <card name="猛将一击" id="24078d05-5d38-46a8-85a5-b26e7ea53f2c">
-      <property name="Cost" value="%%5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -858,8 +858,8 @@
       <property name="MultiverseId" value="1056" />
     </card>
     <card name="妙手回春" id="3b40aa8d-fe8e-4b0a-92bd-c9a5ed9e4ac8">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -871,8 +871,8 @@
       <property name="MultiverseId" value="1057" />
     </card>
     <card name="仁者的大德" id="8e50d535-0766-472e-b8e3-11d5767f3e02">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Common" />
@@ -884,8 +884,8 @@
       <property name="MultiverseId" value="1058" />
     </card>
     <card name="嗜血的独狼·魏延" id="2973df37-77b6-4121-808c-01fe1702cbe6">
-      <property name="Cost" value="%%5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -900,8 +900,8 @@
       <property name="MultiverseId" value="1059" />
     </card>
     <card name="蜀钩镰兵" id="5c814bd7-f3b4-4fe6-9454-e246b3cbc98f">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -917,8 +917,8 @@
       <property name="MultiverseId" value="1060" />
     </card>
     <card name="蜀重骑兵" id="f592bf03-dd35-46f8-ace4-5b4e47ffa095">
-      <property name="Cost" value="%5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="骑兵" />
@@ -933,8 +933,8 @@
       <property name="MultiverseId" value="1061" />
     </card>
     <card name="树大招风" id="686353c6-75c9-4a3b-ab57-ac0f94d2d18c">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -946,8 +946,8 @@
       <property name="MultiverseId" value="1062" />
     </card>
     <card name="孙乾" id="cc80f4d4-de81-4ec6-ad6b-944930adfcf3">
-      <property name="Cost" value="%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="文官" />
@@ -962,8 +962,8 @@
       <property name="MultiverseId" value="1063" />
     </card>
     <card name="桃园结义" id="1899cac0-d350-46aa-8673-6bacad1ca2b6">
-      <property name="Cost" value="%5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双阵略" />
       <property name="Rarity" value="Rare" />
@@ -974,8 +974,8 @@
       <property name="MultiverseId" value="1064" />
     </card>
     <card name="天监智囊" id="13099e0d-f64c-4c9c-bf43-e5c53fbec115">
-      <property name="Cost" value="%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="文官/祭司" />
@@ -990,8 +990,8 @@
       <property name="MultiverseId" value="1065" />
     </card>
     <card name="万人敌·张飞" id="bd5f7fe8-9589-4ddd-b909-27f4c0ccd7a4">
-      <property name="Cost" value="%%6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将/五虎将" />
@@ -1006,8 +1006,8 @@
       <property name="MultiverseId" value="1066" />
     </card>
     <card name="武侯将阵兵" id="29550593-e879-4b0b-8503-9d005d50b71d">
-      <property name="Cost" value="%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="幻影兵" />
@@ -1023,8 +1023,8 @@
       <property name="MultiverseId" value="1067" />
     </card>
     <card name="武圣的引领" id="856e4fb0-5e14-4ab3-8773-bd3aed45657e">
-      <property name="Cost" value="%6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Uncommon" />
@@ -1035,8 +1035,8 @@
       <property name="MultiverseId" value="1068" />
     </card>
     <card name="骁志残兵" id="d94dac67-98a3-442b-8996-30b04110e804">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -1053,8 +1053,8 @@
       <property name="MultiverseId" value="1069" />
     </card>
     <card name="新野百骑长" id="c46d4a40-0a4f-40c9-898e-7f2a0624e334">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -1070,8 +1070,8 @@
       <property name="MultiverseId" value="70" />
     </card>
     <card name="新野兵勇" id="fa06e855-018d-4f93-9e8b-ddec3ff5d2c6">
-      <property name="Cost" value="%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -1087,8 +1087,8 @@
       <property name="MultiverseId" value="1071" />
     </card>
     <card name="湮灭" id="e9bbfeb5-bc0f-495f-aefb-e4ad848a4dd7">
-      <property name="Cost" value="%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -1099,8 +1099,8 @@
       <property name="MultiverseId" value="1072" />
     </card>
     <card name="夜观天象" id="d285749d-b5f0-4ac9-9aab-a3c709cf2170">
-      <property name="Cost" value="%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -1111,8 +1111,8 @@
       <property name="MultiverseId" value="1073" />
     </card>
     <card name="一夫当关" id="5248e743-7c6c-4ba2-8e23-021307f6e5f8">
-      <property name="Cost" value="%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Rare" />
@@ -1123,8 +1123,8 @@
       <property name="MultiverseId" value="1074" />
     </card>
     <card name="益州主力" id="62933b89-f0c4-4d7a-a3f7-4d6707d4ba7b">
-      <property name="Cost" value="%%6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -1139,8 +1139,8 @@
       <property name="MultiverseId" value="1075" />
     </card>
     <card name="夤夜秉烛·伊籍" id="0e32d4fa-2c54-47e4-a6b4-bf6db888b2fa">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="文官" />
@@ -1155,8 +1155,8 @@
       <property name="MultiverseId" value="1076" />
     </card>
     <card name="英勇无畏" id="67a79dfa-8368-4a44-ae16-ffd4040f6f13">
-      <property name="Cost" value="%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Common" />
@@ -1167,8 +1167,8 @@
       <property name="MultiverseId" value="1077" />
     </card>
     <card name="运粮队" id="e75d1f4e-a576-4d04-bb13-2522f6d2ff00">
-      <property name="Cost" value="%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -1183,8 +1183,8 @@
       <property name="MultiverseId" value="1078" />
     </card>
     <card name="再起兴军" id="276729dd-934b-4357-900e-306c3e805cf7">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -1195,8 +1195,8 @@
       <property name="MultiverseId" value="1079" />
     </card>
     <card name="战场的游龙·赵云" id="349ac89f-6cfa-4f28-b163-55499f2a48b1">
-      <property name="Cost" value="%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将/五虎将" />
@@ -1211,8 +1211,8 @@
       <property name="MultiverseId" value="1080" />
     </card>
     <card name="征西将军·陈到" id="22d51334-5e11-4471-9842-c68d0c9bb4b8">
-      <property name="Cost" value="%5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1227,8 +1227,8 @@
       <property name="MultiverseId" value="1081" />
     </card>
     <card name="忠孝侠士·徐庶" id="0eec81c0-7bbc-42dc-8351-2c6210c8a559">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="谋士" />
@@ -1243,8 +1243,8 @@
       <property name="MultiverseId" value="1082" />
     </card>
     <card name="白衣渡江·吕蒙" id="17efc011-74fb-4e31-a2b1-f2650249a6c0">
-      <property name="Cost" value="^^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="4" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1259,8 +1259,8 @@
       <property name="MultiverseId" value="1083" />
     </card>
     <card name="绊马索" id="06a9b4fd-abee-40f1-9f9d-dc841eb0a974">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -1271,8 +1271,8 @@
       <property name="MultiverseId" value="1084" />
     </card>
     <card name="大都督·周瑜" id="f91fe0f4-55f3-4810-abda-6b9b237be2ee">
-      <property name="Cost" value="^^^6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="3" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将/军师" />
@@ -1287,8 +1287,8 @@
       <property name="MultiverseId" value="1085" />
     </card>
     <card name="大雾" id="b9cd3e2d-a335-4d20-8fdc-b06728a98972">
-      <property name="Cost" value="^1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -1299,8 +1299,8 @@
       <property name="MultiverseId" value="1086" />
     </card>
     <card name="调虎离山" id="2bee9f94-d785-4325-9ed4-590994e1a18d">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -1311,8 +1311,8 @@
       <property name="MultiverseId" value="1087" />
     </card>
     <card name="东吴水军" id="9311e3ca-c289-4831-bb2b-cd1ecfb0c989">
-      <property name="Cost" value="^5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="水兵" />
@@ -1328,8 +1328,8 @@
       <property name="MultiverseId" value="1088" />
     </card>
     <card name="浑水摸鱼" id="c99e928f-b89f-415d-8948-065f53fbb4bf">
-      <property name="Cost" value="^1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Uncommon" />
@@ -1340,8 +1340,8 @@
       <property name="MultiverseId" value="1089" />
     </card>
     <card name="火攻" id="274f9b9f-f4bf-4305-a2b1-92170541328f">
-      <property name="Cost" value="^^^X" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="X" />
+      <property name="FPoint" value="3" />
       <property name="Color" value="Green" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Rare" />
@@ -1352,8 +1352,8 @@
       <property name="MultiverseId" value="1090" />
     </card>
     <card name="舰队长弓手" id="9e713fd4-768b-4d68-a6f6-03cbd4a1de57">
-      <property name="Cost" value="^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="弓兵/水兵" />
@@ -1368,8 +1368,8 @@
       <property name="MultiverseId" value="1091" />
     </card>
     <card name="箭术训练" id="76a92ab0-c0dd-4312-af09-e32e3f2ced6f">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Common" />
@@ -1380,8 +1380,8 @@
       <property name="MultiverseId" value="1092" />
     </card>
     <card name="江表豪强" id="b31ed109-a567-4d78-98e1-0ecdf7f2eca3">
-      <property name="Cost" value="^^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="商人" />
@@ -1396,8 +1396,8 @@
       <property name="MultiverseId" value="1093" />
     </card>
     <card name="江陵策士" id="efc02176-01d0-425b-9671-29e37e03f418">
-      <property name="Cost" value="^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="谋士" />
@@ -1412,8 +1412,8 @@
       <property name="MultiverseId" value="1094" />
     </card>
     <card name="江陵巫女" id="f881e792-c0fa-4e23-8c39-0b64c506cf59">
-      <property name="Cost" value="^1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="女性/祭司" />
@@ -1428,8 +1428,8 @@
       <property name="MultiverseId" value="1095" />
     </card>
     <card name="江南儒将" id="4ddbaea4-2115-47c1-8fe8-d3db84bdf3e3">
-      <property name="Cost" value="^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="武将" />
@@ -1444,8 +1444,8 @@
       <property name="MultiverseId" value="1096" />
     </card>
     <card name="矫情之花·小乔" id="f31fa8a0-cc40-44b8-9bf4-55d92078b5ea">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="女性" />
@@ -1460,8 +1460,8 @@
       <property name="MultiverseId" value="1097" />
     </card>
     <card name="解烦营" id="b2a5b9d4-0572-435d-8118-a9e59d0095ff">
-      <property name="Cost" value="^^6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -1476,8 +1476,8 @@
       <property name="MultiverseId" value="1098" />
     </card>
     <card name="锦帆传令使" id="9f4a9208-b052-4649-8226-4c4b9e7bf791">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="水兵" />
@@ -1492,8 +1492,8 @@
       <property name="MultiverseId" value="1099" />
     </card>
     <card name="冷箭" id="8a87bba8-98b7-4d26-be9c-4511aa4c064a">
-      <property name="Cost" value="^1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -1505,8 +1505,8 @@
       <property name="MultiverseId" value="1100" />
     </card>
     <card name="庐江步兵" id="9ceda13f-2bdc-4a68-8e0f-407b0b6093d0">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -1522,8 +1522,8 @@
       <property name="MultiverseId" value="1101" />
     </card>
     <card name="落石" id="5b9947b1-34d4-4d7b-aeb0-2da695a33ccd">
-      <property name="Cost" value="^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -1534,8 +1534,8 @@
       <property name="MultiverseId" value="1102" />
     </card>
     <card name="吕范" id="470489d2-91be-4f2e-aadc-123bb43bcc08">
-      <property name="Cost" value="^^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1551,8 +1551,8 @@
       <property name="MultiverseId" value="1103" />
     </card>
     <card name="年迈的参谋" id="1c859a0b-25dd-4fcf-92f4-c2f05d3dbfc1">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="谋士" />
@@ -1567,8 +1567,8 @@
       <property name="MultiverseId" value="1104" />
     </card>
     <card name="年轻贤君·孙权" id="a1092cee-fe7a-439a-9945-97582f7cd300">
-      <property name="Cost" value="^^5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="主公" />
@@ -1584,8 +1584,8 @@
       <property name="MultiverseId" value="1105" />
     </card>
     <card name="祁奚之器·蒋钦" id="2b06923d-79b6-40af-8c25-05811eab6688">
-      <property name="Cost" value="^^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1600,8 +1600,8 @@
       <property name="MultiverseId" value="1106" />
     </card>
     <card name="轻身为国·黄盖" id="c6a580e1-f8d8-4c5c-80c7-cb1e5e2041d8">
-      <property name="Cost" value="^^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1616,8 +1616,8 @@
       <property name="MultiverseId" value="1107" />
     </card>
     <card name="舍身为主·祖茂" id="727b1843-842e-4cc7-9b82-7d2878b68f7b">
-      <property name="Cost" value="^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1632,8 +1632,8 @@
       <property name="MultiverseId" value="1108" />
     </card>
     <card name="舍生取义" id="ce36e5cd-34ca-4f77-9ec0-86d119e18fb8">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -1644,8 +1644,8 @@
       <property name="MultiverseId" value="1109" />
     </card>
     <card name="神出鬼没·甘宁" id="441fe24c-1041-461c-b13c-0c2b92f13736">
-      <property name="Cost" value="^^5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1660,8 +1660,8 @@
       <property name="MultiverseId" value="1110" />
     </card>
     <card name="万箭齐发" id="02effb26-1d0a-4a74-a746-5e333a3234b4">
-      <property name="Cost" value="^^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -1673,8 +1673,8 @@
       <property name="MultiverseId" value="1111" />
     </card>
     <card name="无中生有" id="77977d6c-b662-47a3-b208-7aab62c59aeb">
-      <property name="Cost" value="^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -1685,8 +1685,8 @@
       <property name="MultiverseId" value="1112" />
     </card>
     <card name="吴景" id="a0d4c927-42d7-47e6-8039-eb34def62dcb">
-      <property name="Cost" value="^5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1701,8 +1701,8 @@
       <property name="MultiverseId" value="1113" />
     </card>
     <card name="吴王侍卫" id="8162ad0d-1c6f-4514-b020-e41b531fa62b">
-      <property name="Cost" value="^5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="侍卫" />
@@ -1717,8 +1717,8 @@
       <property name="MultiverseId" value="1114" />
     </card>
     <card name="武烈帝·孙坚" id="1c9476b6-98a3-4310-955b-a8570895ca82">
-      <property name="Cost" value="^6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="主公/武将" />
@@ -1733,8 +1733,8 @@
       <property name="MultiverseId" value="1115" />
     </card>
     <card name="武烈皇后·吴夫人" id="08436955-bb50-4bce-a3b4-04c51a18d16f">
-      <property name="Cost" value="^1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="女性" />
@@ -1749,8 +1749,8 @@
       <property name="MultiverseId" value="1116" />
     </card>
     <card name="贤者的雄略" id="8615ece7-dfa8-400c-9773-ed357b8c6666">
-      <property name="Cost" value="^^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Mythic Rare" />
@@ -1761,8 +1761,8 @@
       <property name="MultiverseId" value="1117" />
     </card>
     <card name="英魂附体" id="dd08cf14-c4ac-4cf4-882a-cc5d64e6ab13">
-      <property name="Cost" value="^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Rare" />
@@ -1773,8 +1773,8 @@
       <property name="MultiverseId" value="1118" />
     </card>
     <card name="战线调整" id="3470c3aa-a9ea-427d-9909-a4d02e4ea92c">
-      <property name="Cost" value="^0" />
-      <property name="CMC" value="0" />
+      <property name="Cost" value="0" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -1785,8 +1785,8 @@
       <property name="MultiverseId" value="1119" />
     </card>
     <card name="长江天险" id="44553b31-8fea-425c-ab75-0d4f4405c3dc">
-      <property name="Cost" value="^^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Rare" />
@@ -1797,8 +1797,8 @@
       <property name="MultiverseId" value="1120" />
     </card>
     <card name="掷矛手" id="fc931cbf-7ac4-4f81-87f9-34cd92b7f6b1">
-      <property name="Cost" value="^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -1813,8 +1813,8 @@
       <property name="MultiverseId" value="1121" />
     </card>
     <card name="竹弓手" id="e879b5e0-1f98-473e-90a7-18058a0464a7">
-      <property name="Cost" value="^1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="弓兵" />
@@ -1830,8 +1830,8 @@
       <property name="MultiverseId" value="1122" />
     </card>
     <card name="壮怀激烈·陈武" id="4c07c2cc-e67b-4b6d-8225-1b4d41f23055">
-      <property name="Cost" value="^^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1846,8 +1846,8 @@
       <property name="MultiverseId" value="1123" />
     </card>
     <card name="白马将军·公孙瓒" id="ba51b470-83b5-4743-8e15-743f5945f896">
-      <property name="Cost" value="$$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -1862,8 +1862,8 @@
       <property name="MultiverseId" value="1124" />
     </card>
     <card name="白马阵" id="631e6756-2333-4e00-b3ca-dd8b38cdb28d">
-      <property name="Cost" value="$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Rare" />
@@ -1874,8 +1874,8 @@
       <property name="MultiverseId" value="1125" />
     </card>
     <card name="陈宫" id="77dea60b-fccb-44c8-9e86-59e568f030d9">
-      <property name="Cost" value="$$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="军师" />
@@ -1890,8 +1890,8 @@
       <property name="MultiverseId" value="1126" />
     </card>
     <card name="刺杀" id="d5b7a35e-0e54-4155-83ec-837a11cdebbf">
-      <property name="Cost" value="$$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -1902,8 +1902,8 @@
       <property name="MultiverseId" value="1127" />
     </card>
     <card name="地公将军·张宝" id="ca9fb97e-c61c-45ad-98c5-bd14a009fe94">
-      <property name="Cost" value="$$5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="黄巾/妖术师" />
@@ -1918,8 +1918,8 @@
       <property name="MultiverseId" value="1128" />
     </card>
     <card name="貂蝉" id="97b873b3-aa1a-49ef-9fe9-71f9d2d0d9c5">
-      <property name="Cost" value="$$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="女性" />
@@ -1934,8 +1934,8 @@
       <property name="MultiverseId" value="1129" />
     </card>
     <card name="峨嵋祭酒" id="950af262-4c1d-47fd-a050-7233862c3e82">
-      <property name="Cost" value="$$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="道士/女性" />
@@ -1950,8 +1950,8 @@
       <property name="MultiverseId" value="1130" />
     </card>
     <card name="后宫内侍" id="cacdaa2f-62f7-41c6-ae6e-013fb744b65e">
-      <property name="Cost" value="$1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="宦官" />
@@ -1966,8 +1966,8 @@
       <property name="MultiverseId" value="1131" />
     </card>
     <card name="宦官的毒策" id="c4fb5fce-f033-4d0b-95ae-f89dea5398ad">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -1979,8 +1979,8 @@
       <property name="MultiverseId" value="1132" />
     </card>
     <card name="黄巾步兵" id="932dd332-4ace-44f3-a6d1-f0c00c457144">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="黄巾/步兵" />
@@ -1996,8 +1996,8 @@
       <property name="MultiverseId" value="1133" />
     </card>
     <card name="黄巾传道者" id="b5287cc7-4f89-4cb9-ac08-0ce6a43dc8fc">
-      <property name="Cost" value="$1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="黄巾" />
@@ -2013,8 +2013,8 @@
       <property name="MultiverseId" value="1134" />
     </card>
     <card name="黄巾大军" id="b9d89f2b-1be1-48dc-84cb-89b7cfb2591f">
-      <property name="Cost" value="$7" />
-      <property name="CMC" value="7" />
+      <property name="Cost" value="7" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="黄巾/步兵" />
@@ -2030,8 +2030,8 @@
       <property name="MultiverseId" value="135" />
     </card>
     <card name="黄巾之乱" id="d4b966a2-1950-4c63-b660-81a8c98d85d7">
-      <property name="Cost" value="$$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双阵略" />
       <property name="Rarity" value="Mythic Rare" />
@@ -2043,8 +2043,8 @@
       <property name="MultiverseId" value="1136" />
     </card>
     <card name="黄巾指挥官" id="e7230ebf-d222-4458-9f6a-ba3cfbf334d2">
-      <property name="Cost" value="$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="黄巾" />
@@ -2059,8 +2059,8 @@
       <property name="MultiverseId" value="137" />
     </card>
     <card name="谎报" id="405fe571-5433-4be3-be96-51a5cc666825">
-      <property name="Cost" value="$$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -2071,8 +2071,8 @@
       <property name="MultiverseId" value="1138" />
     </card>
     <card name="回天术" id="1bd08d3f-65d3-406a-94eb-ca550d0dc2a6">
-      <property name="Cost" value="$$5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -2083,8 +2083,8 @@
       <property name="MultiverseId" value="1139" />
     </card>
     <card name="计随鞘出·王允" id="f5b2ac72-9eec-4a15-97b3-0ce72595610e">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="文官" />
@@ -2099,8 +2099,8 @@
       <property name="MultiverseId" value="1140" />
     </card>
     <card name="降头术" id="78d6175a-4c5d-419a-b998-01ace90ae575">
-      <property name="Cost" value="$5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -2112,8 +2112,8 @@
       <property name="MultiverseId" value="1141" />
     </card>
   <card name="骄傲的佣兵" id="0824a4ca-8d26-4b9f-b2a9-f523050c5cc2">
-      <property name="Cost" value="$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="佣兵/女性" />
@@ -2128,8 +2128,8 @@
       <property name="MultiverseId" value="1142" />
     </card>
     <card name="钜鹿狂信徒" id="d727a442-ade8-44a5-bcac-39156f9b464a">
-      <property name="Cost" value="$$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="黄巾" />
@@ -2144,8 +2144,8 @@
       <property name="MultiverseId" value="1143" />
     </card>
     <card name="苛刻的税收" id="f96b27ba-ab98-467c-8af3-5f2978e6b4ee">
-      <property name="Cost" value="$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Uncommon" />
@@ -2156,8 +2156,8 @@
       <property name="MultiverseId" value="1144" />
     </card>
     <card name="雷击" id="dba78202-7465-419a-9cba-2ad06d792cc8">
-      <property name="Cost" value="$1" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -2169,8 +2169,8 @@
       <property name="MultiverseId" value="1145" />
     </card>
     <card name="盲兵" id="7a50e3e0-64fb-437d-ae85-f887f28c2a1d">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -2186,8 +2186,8 @@
       <property name="MultiverseId" value="1146" />
     </card>
     <card name="野火焚城" id="da391b96-8f5a-4d09-88f6-33a4c3c6e2c3">
-      <property name="Cost" value="$$6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Rare" />
@@ -2198,8 +2198,8 @@
       <property name="MultiverseId" value="1147" />
     </card>
     <card name="平原义军" id="ea8ce51a-e537-4182-8eea-8c9cb36bcc73">
-      <property name="Cost" value="$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="步兵" />
@@ -2215,8 +2215,8 @@
       <property name="MultiverseId" value="1148" />
     </card>
     <card name="清查" id="4dbd1672-f1f0-4507-aee4-c8e5efa80787">
-      <property name="Cost" value="$$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -2227,8 +2227,8 @@
       <property name="MultiverseId" value="1149" />
     </card>
     <card name="人公将军·张梁" id="c5d8d472-179b-4da5-b83c-f1ce86cb2135">
-      <property name="Cost" value="$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="黄巾/武将" />
@@ -2243,8 +2243,8 @@
       <property name="MultiverseId" value="1150" />
     </card>
     <card name="塞外蛮族" id="92aaeaba-58e3-43c2-9e54-8fa45edb4ceb">
-      <property name="Cost" value="$$6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="骑兵" />
@@ -2259,8 +2259,8 @@
       <property name="MultiverseId" value="1151" />
     </card>
     <card name="嗜血蛮骑" id="dad16bf6-8238-4749-8a32-243c2518c6d5">
-      <property name="Cost" value="$5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="骑兵" />
@@ -2275,8 +2275,8 @@
       <property name="MultiverseId" value="1152" />
     </card>
     <card name="死士" id="9ddbd355-737a-4511-9be1-7194f4461c09">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="佣兵" />
@@ -2291,8 +2291,8 @@
       <property name="MultiverseId" value="1153" />
     </card>
     <card name="讨贼先锋·皇甫嵩" id="7507b01c-9c7c-4f9a-8fda-e388ee109893">
-      <property name="Cost" value="$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -2307,8 +2307,8 @@
       <property name="MultiverseId" value="1154" />
     </card>
     <card name="天公将军·张角" id="63b18c19-dddb-4ade-83d0-f5dd52beb6e2">
-      <property name="Cost" value="$$$6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="3" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="黄巾/妖术师" />
@@ -2323,8 +2323,8 @@
       <property name="MultiverseId" value="1155" />
     </card>
     <card name="亡国哀民" id="91b06ebe-1342-4418-8dc6-a7943e79a977">
-      <property name="Cost" value="$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="百姓" />
@@ -2339,8 +2339,8 @@
       <property name="MultiverseId" value="1156" />
     </card>
     <card name="武的化身·吕布" id="52a8503b-22e8-4261-9b5c-728cae43a701">
-      <property name="Cost" value="$7" />
-      <property name="CMC" value="7" />
+      <property name="Cost" value="7" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -2355,8 +2355,8 @@
       <property name="MultiverseId" value="1157" />
     </card>
     <card name="息兵止战·华歆" id="c1d9e80c-6b14-44ea-bd14-266266186d69">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="文官" />
@@ -2371,8 +2371,8 @@
       <property name="MultiverseId" value="1158" />
     </card>
     <card name="下毒" id="3e5e3d01-c5ee-484d-9bce-ca2037f9ab9d">
-      <property name="Cost" value="$$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Rare" />
@@ -2383,8 +2383,8 @@
       <property name="MultiverseId" value="1159" />
     </card>
     <card name="先发制人" id="1752acc6-cbb0-492b-9ca2-d8375d84df30">
-      <property name="Cost" value="$1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="阵略" />
       <property name="Rarity" value="Common" />
@@ -2395,8 +2395,8 @@
       <property name="MultiverseId" value="1160" />
     </card>
     <card name="陷阵统率·高顺" id="b800feaa-ca63-4382-9760-8cb150b6d898">
-      <property name="Cost" value="$$$6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="3" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -2411,8 +2411,8 @@
       <property name="MultiverseId" value="1161" />
     </card>
     <card name="心神丧失" id="e4afc470-557f-41fd-bb2a-5b6c0b8f8515">
-      <property name="Cost" value="$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -2423,8 +2423,8 @@
       <property name="MultiverseId" value="1162" />
     </card>
     <card name="血动黄帆·马元义" id="6c04ef46-335a-4012-84d6-c4b5526b6ee6">
-      <property name="Cost" value="$$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="黄巾/武将" />
@@ -2439,8 +2439,8 @@
       <property name="MultiverseId" value="1163" />
     </card>
     <card name="瞻酒失蹄·侯成" id="6a5089fb-f357-43bb-824f-dbdbebbda395">
-      <property name="Cost" value="$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="武将" />
@@ -2456,7 +2456,7 @@
     </card>
     <card name="朝廷追兵" id="d1656d73-4304-4d29-bee3-5b2c18802ed6">
       <property name="Cost" value="5" />
-      <property name="CMC" value="5" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="官兵" />
@@ -2471,7 +2471,7 @@
     </card>
     <card name="冲车" id="02851278-5113-40ce-a42c-2840785fdc19">
       <property name="Cost" value="4" />
-      <property name="CMC" value="4" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="战器单位" />
       <property name="Rarity" value="Common" />
@@ -2485,7 +2485,7 @@
     </card>
     <card name="大环刀" id="de0fde89-a5be-4bb7-8671-a01b21bb949b">
       <property name="Cost" value="3" />
-      <property name="CMC" value="3" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="战器" />
       <property name="Subtype" value="装备/武器" />
@@ -2497,7 +2497,7 @@
     </card>
     <card name="定心丸" id="be658b36-81ee-4992-8a2b-d58003199644">
       <property name="Cost" value="2" />
-      <property name="CMC" value="2" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="战器" />
       <property name="Rarity" value="Uncommon" />
@@ -2508,7 +2508,7 @@
     </card>
     <card name="防栅" id="965b0743-2739-4bce-ac2c-6817d7e9ed8f">
       <property name="Cost" value="0" />
-      <property name="CMC" value="5" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="战器单位" />
       <property name="Rarity" value="Common" />
@@ -2522,7 +2522,7 @@
     </card>
     <card name="护心镜" id="bebefd78-ef49-40f8-b8c6-2176eff80c35">
       <property name="Cost" value="2" />
-      <property name="CMC" value="2" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="战器" />
       <property name="Subtype" value="装备/防具" />
@@ -2534,7 +2534,7 @@
     </card>
     <card name="黄头巾" id="abcd297e-0088-4fa2-a2df-42b9b9471a78">
       <property name="Cost" value="1" />
-      <property name="CMC" value="1" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="战器" />
       <property name="Subtype" value="装备" />
@@ -2546,7 +2546,7 @@
     </card>
     <card name="军马" id="446d35c8-acb9-4b73-ad72-681afd3e31f6">
       <property name="Cost" value="2" />
-      <property name="CMC" value="2" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="战器" />
       <property name="Subtype" value="装备" />
@@ -2558,7 +2558,7 @@
     </card>
     <card name="流浪者的地图" id="6e288c5c-1b76-441a-a236-0bd7091cfba2">
       <property name="Cost" value="2" />
-      <property name="CMC" value="2" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="战器" />
       <property name="Rarity" value="Common" />
@@ -2569,7 +2569,7 @@
     </card>
     <card name="落井下石" id="75b37ef2-8147-492d-80f5-642bbc3b7031">
       <property name="Cost" value="1" />
-      <property name="CMC" value="1" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="瞬发锦囊" />
       <property name="Rarity" value="Common" />
@@ -2580,7 +2580,7 @@
     </card>
     <card name="马贼" id="56b1aacf-d334-48cb-8cfc-e9c964b699b6">
       <property name="Cost" value="2" />
-      <property name="CMC" value="2" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="单位" />
       <property name="Subtype" value="盗贼" />
@@ -2595,7 +2595,7 @@
     </card>
     <card name="南华老仙" id="7ab6e5e0-4c73-4e42-9559-5cdf6f9fa231">
       <property name="Cost" value="3" />
-      <property name="CMC" value="3" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="无双单位" />
       <property name="Subtype" value="仙人" />
@@ -2610,7 +2610,7 @@
     </card>
     <card name="沙尘暴" id="bfb12b20-5741-40b7-a96d-42dcfb9baafd">
       <property name="Cost" value="2" />
-      <property name="CMC" value="2" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="常时锦囊" />
       <property name="Rarity" value="Common" />
@@ -2621,7 +2621,7 @@
     </card>
     <card name="倚天剑" id="f847386d-803f-446f-ac6f-9c059da3e682">
       <property name="Cost" value="3" />
-      <property name="CMC" value="3" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="无双战器" />
       <property name="Subtype" value="装备/武器" />
@@ -2632,7 +2632,7 @@
       <property name="MultiverseId" value="1178" />
     </card>
     <card name="魏领土" id="dac788d3-7dc8-4895-a5c5-e30e943986e6">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Island" />
@@ -2644,7 +2644,7 @@
       <property name="MultiverseId" value="1179" />
     </card>
     <card name="魏领土" id="93fe6cc9-c98d-4163-a9f6-0500880ae7f2">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Island" />
@@ -2656,7 +2656,7 @@
       <property name="MultiverseId" value="1180" />
     </card>
     <card name="蜀领土" id="1105f6d5-ae7e-4741-a7b9-bb527546df27">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Mountain" />
@@ -2668,7 +2668,7 @@
       <property name="MultiverseId" value="1181" />
     </card>
     <card name="蜀领土" id="1fbaf1dd-f882-4b26-8326-8590bffc3243">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Mountain" />
@@ -2680,7 +2680,7 @@
       <property name="MultiverseId" value="1182" />
     </card>
     <card name="吴领土" id="5646ba69-2df9-4e64-a090-9acbf890fb2e">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Forest" />
@@ -2692,7 +2692,7 @@
       <property name="MultiverseId" value="1183" />
     </card>
     <card name="吴领土" id="6dfba503-02c0-4ff9-a5fd-4ae3e9135a27">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Forest" />
@@ -2704,7 +2704,7 @@
       <property name="MultiverseId" value="1184" />
     </card>
     <card name="群雄领土" id="16dcb490-0f89-42c3-9c2f-9061320e72ae">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Swamp" />
@@ -2716,7 +2716,7 @@
       <property name="MultiverseId" value="1185" />
     </card>
     <card name="群雄领土" id="ec4e9810-bd17-4579-b854-4b06dea42238">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Swamp" />

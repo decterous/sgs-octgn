@@ -17,8 +17,8 @@
   </packaging>
   <cards>
     <card name="曹操 Cao Cao" id="2dc90aac-f7c8-4b7c-968c-3abf562c7050">
-      <property name="Cost" value="##5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="主公 Lord" />
@@ -30,24 +30,24 @@
       <property name="Artist" value="KayaK" />
       <property name="Number" value="001" />
       <property name="Flavor" value="据而不谋，霸者求心。" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="1" />
     </card>
     <card name="过河拆桥 Burning Bridges" id="eb83ba8c-03dd-4c2d-9c20-687199eff6c4">
-      <property name="Cost" value="##3"/>
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3"/>
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Common" />
       <property name="Rules" value="只要己方单位比敌方单位多，则消灭目标敌方单位。Destroy target unit you don't control if you control more units than its controler." />
       <property name="Artist" value="Xiaoi" />
       <property name="Number" value="002" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="2" />
     </card>
     <card name="扈伴战士 Warrior Companion" id="f2600fd2-c4a6-452a-8a8c-7802c350bd5f">
-      <property name="Cost" value="#3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -59,12 +59,12 @@
       <property name="Artist" value="巴萨小马" />
       <property name="Number" value="003" />
       <property name="Flavor" value="在平原作战时，他们两个一组首尾相顾，配合默契。私下里关系也好得不得了。" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="3" />
     </card>
     <card name="满宠 Man Chong" id="63a34f2a-8583-454d-88e5-40186e1a568d">
-      <property name="Cost" value="#3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将 General" />
@@ -76,12 +76,12 @@
       <property name="Artist" value="depp" />
       <property name="Number" value="004" />
       <property name="Flavor" value="&quot;故能而示之以弱不能，骄之以利，示之以慑。此为形实不必相应也。&quot;— 《三国志·魏书》" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="4" />
     </card>
     <card name="齐心协力 United" id="7a5cb351-34f5-43d6-87d6-a693b351382b">
-      <property name="Cost" value="#4"/>
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4"/>
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Uncommon" />
@@ -89,12 +89,12 @@
       <property name="Artist" value="波子" />
       <property name="Number" value="005" />
       <property name="Flavor" value="君臣一心，将士用命，天下可定。" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="5" />
     </card>
     <card name="青州哨卫 Sentinel of Qingzhou" id="c7cfcd6b-56ba-4ee9-8add-8859ad4b5c9d">
-      <property name="Cost" value="#2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -106,12 +106,12 @@
       <property name="Artist" value="青骑士" />
       <property name="Number" value="006" />
       <property name="Flavor" value="&quot;追黄巾至济北。乞降。冬，受降卒三十余万，男女百余万口，收其精锐者，号为青州兵。&quot;— 《三国志·武帝纪》" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="6" />
     </card>
     <card name="司隶步兵 Infantry of Sili" id="0101735c-38e8-4b8f-ac03-0a8324213677">
-      <property name="Cost" value="#3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -123,12 +123,12 @@
       <property name="Artist" value="L" />
       <property name="Number" value="007" />
       <property name="Flavor" value="司隶，下辖河南、河内、河东、弘农、京兆尹、左冯翊、右扶风。建安十七年河内之汤阴、朝歌、林虑划归魏郡。十八年，归魏郡西部都尉。" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="7" />
     </card>
     <card name="屯骑营 Cavalry Battalion" id="1ea980cd-e5d7-404b-a81d-a268edb0da31">
-      <property name="Cost" value="##5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="骑兵 Cavalry" />
@@ -140,12 +140,12 @@
       <property name="Artist" value="青骑士" />
       <property name="Number" value="008" />
       <property name="Flavor" value="屯中帐以骑，乃军之栋梁。" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="8" />
     </card>
     <card name="魏新兵 Recruit of Wei" id="c7996b84-8541-43b5-a4a7-4398661c7d76">
-      <property name="Cost" value="#1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -157,12 +157,12 @@
       <property name="Artist" value="青骑士" />
       <property name="Number" value="009" />
       <property name="Flavor" value="他们都是百姓甚至贼众，然而在曹操个人魅力的影响下全都改头换面了。" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="9" />
     </card>
     <card name="无懈可击 Counterspell" id="a18c0c1e-1932-4298-8877-dd84f95a37d7">
-      <property name="Cost" value="##3"/>
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3"/>
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Common" />
@@ -170,12 +170,12 @@
       <property name="Artist" value="Xiaoi" />
       <property name="Number" value="010" />
       <property name="Flavor" value="&quot;击其懈怠，出其空虚&quot;— 曹操" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="10" />
     </card>
     <card name="夏侯惇 Xiahou Dun" id="1fe0d922-c307-4f64-8e5f-b97a62f004f6">
-      <property name="Cost" value="###7" />
-      <property name="CMC" value="7" />
+      <property name="Cost" value="7" />
+      <property name="FPoint" value="3" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将 General" />
@@ -186,24 +186,24 @@
       <property name="PT Box" value="5 / 6" />
       <property name="Artist" value="木美人" />
       <property name="Number" value="011" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="11" />
     </card>
     <card name="新兵集阵 Recruit Lineup" id="04eeaded-5b9d-4f7c-bc6f-434182e4424e">
-      <property name="Cost" value="#2"/>
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2"/>
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Common" />
       <property name="Rules" value="将两个1/1魏势力步兵指示物放进阵地。Put 2 1/1 Wei Infantry tokens onto the battlefield." />
       <property name="Artist" value="Mr_Sleeping" />
       <property name="Number" value="012" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="12" />
     </card>
     <card name="于禁 Yu Jin" id="05de0910-69e7-4bb3-92ae-9777d197670b">
-      <property name="Cost" value="##6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Blue" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将/五良将 Five-Elite General" />
@@ -214,12 +214,12 @@
       <property name="PT Box" value="3 / 5" />
       <property name="Artist" value="Zero" />
       <property name="Number" value="013" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="13" />
     </card>
     <card name="召回 Recall" id="6d777423-8eb1-4eb3-bc85-db8ba9b062b9">
-      <property name="Cost" value="#1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Common" />
@@ -227,36 +227,36 @@
       <property name="Artist" value="小牛" />
       <property name="Number" value="014" />
       <property name="Flavor" value="君臣二心，久战不克，流言四起。终至召回，无功而返矣。" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="14" />
     </card>
     <card name="主将的鼓舞 Motivation" id="ffe8220d-8d01-412d-a045-a686aad11ffa">
-      <property name="Cost" value="#2"/>
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2"/>
+      <property name="FPoint" value="1" />
       <property name="Color" value="Blue" />
       <property name="Type" value="瞬发锦囊 Instant Stratagem" />
       <property name="Rarity" value="Common" />
       <property name="Rules" value="每个己方单位各得+1武力且具有坚韧1（若具有坚韧1的单位将受到伤害，则防止其中X点）直到回合结束。Each unit you control gets +1/+0 and tough until end of turn." />
       <property name="Artist" value="Zero" />
       <property name="Number" value="015" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="15" />
     </card>
     <card name="暗渡陈仓 Transport" id="da3812f3-5872-4341-b3f5-39d3ae7be45e">
-      <property name="Cost" value="%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="瞬发锦囊 Instant Stratagem" />
       <property name="Rarity" value="Common" />
       <property name="Rules" value="将目标己方单位移动到你的一个空阵地上，该单位得+1武力直到回合结束。Move target unit you control to an empty position on your side, this unit gets +1/+0 until end of turn." />
       <property name="Artist" value="北·MAN" />
       <property name="Number" value="016" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="16" />
     </card>
     <card name="东州步兵 Infantry of Dongzhou" id="092d9c22-72b3-4ddd-a87f-6e160da7766f">
-      <property name="Cost" value="%%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -268,12 +268,12 @@
       <property name="Artist" value="B_LEE" />
       <property name="Number" value="017" />
       <property name="Flavor" value="季玉手下时，他们以十打一；皇叔入主后，他们以一顶十。" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="17" />
     </card>
     <card name="奋迅 Uprising" id="8bcc0b06-e188-4573-bab3-e6a5145255ff">
-      <property name="Cost" value="%%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="瞬发锦囊 Instant Stratagem" />
       <property name="Rarity" value="Common" />
@@ -281,12 +281,12 @@
       <property name="Artist" value="L" />
       <property name="Number" value="018" />
       <property name="Flavor" value="&quot;大王以龙虎之姿，遭风云之时，奋迅拔起，期月之间兄弟称王。&quot;—《后汉书》" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="18" />
     </card>
     <card name="关羽 Guan Yu" id="ea018684-9886-489c-89c4-a2e905c32d06">
-      <property name="Cost" value="%%%7" />
-      <property name="CMC" value="7" />
+      <property name="Cost" value="7" />
+      <property name="FPoint" value="3" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将/五虎将 Five-Tiger General" />
@@ -297,24 +297,24 @@
       <property name="PT Box" value="7 / 7" />
       <property name="Artist" value="Thinking" />
       <property name="Number" value="019" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="19" />
     </card>
     <card name="决斗 Duel" id="5e821d63-b691-4f31-bcb2-0e5f572ed650">
-      <property name="Cost" value="%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Common" />
       <property name="Rules" value="目标己方单位与目标对方单位决斗（他们各向对方造成等同于自身武力的伤害）。Target unit you control duel with target unit you don't control (They deal damage equal to their power to each other)." />
       <property name="Artist" value="北·MAN" />
       <property name="Number" value="020" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="20" />
     </card>
     <card name="廖化 Liao Hua" id="033fc16b-47ee-49ac-9444-1036caf9373a">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将 General" />
@@ -326,12 +326,12 @@
       <property name="Artist" value="巴萨小马" />
       <property name="Number" value="021" />
       <property name="Flavor" value="廖元俭诈死归蜀。其节不下于关将军！" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="21" />
     </card>
     <card name="刘备 Liu Bei" id="ead8858b-17ef-49fd-9216-f3541428b6d4">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="主公 Lord" />
@@ -343,12 +343,12 @@
       <property name="Artist" value="DH" />
       <property name="Number" value="022" />
       <property name="Flavor" value="危而不馁，仁义当先。" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="22" />
     </card>
     <card name="妙手回春 Healing" id="ff8df2da-7dd1-4ce8-be40-d559d4df2542">
-      <property name="Cost" value="%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="瞬发锦囊 Instant Stratagem" />
       <property name="Rarity" value="Common" />
@@ -356,12 +356,12 @@
       <property name="Artist" value="木美人" />
       <property name="Number" value="023" />
       <property name="Flavor" value="仲景出长沙，元化旅江夏。不为强权低，神针济汉家。" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="23" />
     </card>
     <card name="蜀重骑兵 Heavey Cavalry of Shu" id="a8133293-0cff-4a21-931c-c3e6a9065765">
-      <property name="Cost" value="%5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1 />
       <property name="Color" value="Red" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="骑兵 Cavalry" />
@@ -373,12 +373,12 @@
       <property name="Artist" value="Liuheng" />
       <property name="Number" value="024" />
       <property name="Flavor" value="人马铠甲重百来斤，锁子连环，箭不可入。威其至冲，凌厉异常，势不可当！" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="24" />
     </card>
     <card name="王平 Wang Ping" id="8352f757-746b-4075-af2d-053807672961">
-      <property name="Cost" value="%%4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将 General" />
@@ -390,12 +390,12 @@
       <property name="Artist" value="B_LEE" />
       <property name="Number" value="025" />
       <property name="Flavor" value="丞相身后出英雄，无当飞军镇汉中。谁言蜀末无能将，一失一得两街亭。" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="25" />
     </card>
     <card name="骁志残兵 Tenacious Remnant" id="eee1a759-bce3-44d6-8bde-13f96a6948f0">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -408,12 +408,12 @@
       <property name="Artist" value="琛美弟奇" />
       <property name="Number" value="026" />
       <property name="Flavor" value="益残益战，以难以勇。匹夫有节，三冠其弘。金石以砺，天地以气。扬吾军威，唯吾正义！" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="26" />
     </card>
     <card name="新野百骑长 Centurion of Xinye" id="4e3233da-959b-4e1e-bae9-3eebec332123">
-      <property name="Cost" value="%%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -425,12 +425,12 @@
       <property name="Artist" value="depp" />
       <property name="Number" value="027" />
       <property name="Flavor" value="新野就是他最早的练兵场，那个时候他发掘了不少能统率百人的可塑人才。以至当阳兵败后，虽然士兵所剩不多，但很快又能形成一支客观的军事力量。" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="27" />
     </card>
     <card name="新野兵勇 Brave of Xinye" id="5021b212-e603-43fe-9f9a-6068eac2c9fe">
-      <property name="Cost" value="%1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -442,12 +442,12 @@
       <property name="Artist" value="depp" />
       <property name="Number" value="028" />
       <property name="Flavor" value="那时新野的青年都争相加入刘备军，因为数月之后，他们就可以学会如何保护自己及自己的家人。" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="28" />
     </card>
     <card name="伊籍 Yi Ji" id="bcd162cb-9440-4cf0-ba4f-063b58428c7e">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="文官 Politician" />
@@ -458,12 +458,12 @@
       <property name="PT Box" value="2 / 2" />
       <property name="Artist" value="DH" />
       <property name="Number" value="029" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="29" />
     </card>
     <card name="益州主力 Main Force of Yizhou" id="55cbd1f3-ff42-4911-843a-92125df2341a">
-      <property name="Cost" value="%%6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -474,12 +474,12 @@
       <property name="PT Box" value="5 / 5" />
       <property name="Artist" value="里奥博恩" />
       <property name="Number" value="030" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="30" />
     </card>
     <card name="运粮队 Convoy" id="33723bff-1292-409d-a24e-d174fa3c5aa2">
-      <property name="Cost" value="%2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -490,24 +490,24 @@
       <property name="PT Box" value="2 / 2" />
       <property name="Artist" value="XXX" />
       <property name="Number" value="031" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="31" />
     </card>
     <card name="再起兴军 Recruitment" id="b569e5e3-feb3-47b2-8ce3-5e63e0874683">
-      <property name="Cost" value="%3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Red" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Common" />
       <property name="Rules" value="重置目标单位。你抓一张牌。Untap target unit. Draw a card." />
       <property name="Artist" value="小牛" />
       <property name="Number" value="032" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="32" />
     </card>
     <card name="陈武 Chen Wu" id="07d708a0-f3c3-4a2c-b027-24bea995f715">
-      <property name="Cost" value="^^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将 General" />
@@ -518,12 +518,12 @@
       <property name="PT Box" value="4 / 3" />
       <property name="Artist" value="苍月白龙" />
       <property name="Number" value="033" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="33" />
     </card>
     <card name="东吴水军 Marine of Wu" id="a1152908-9c3b-49fb-8b20-bf40a2ac6f19">
-      <property name="Cost" value="^^5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="水兵 Marine" />
@@ -535,12 +535,12 @@
       <property name="Artist" value="巴萨小马" />
       <property name="Number" value="034" />
       <property name="Flavor" value="船战有三难：一曰迎风射箭；二曰板上肉搏；三曰水下歼敌。而东吴水兵皆能也！" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="34" />
     </card>
     <card name="舰队长弓手 Fleet Archer" id="05dd29ed-a9aa-4143-83c7-8fbda8a26374">
-      <property name="Cost" value="^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="弓兵 Archer" />
@@ -552,12 +552,12 @@
       <property name="Artist" value="木美人" />
       <property name="Number" value="035" />
       <property name="Flavor" value="东吴斗舰一里之外令人胆丧，然而接近之后你会发现它更加可怕的地方。" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="35" />
     </card>
     <card name="江陵策士 Chancellor of Jiangling" id="c6a8fc45-afe2-46d5-af15-f88f9a3dbd67">
-      <property name="Cost" value="^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="谋士 Chancellor" />
@@ -568,12 +568,12 @@
       <property name="PT Box" value="2 / 4" />
       <property name="Artist" value="木美人" />
       <property name="Number" value="036" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="36" />
     </card>
     <card name="锦帆传令使 Herald of Jinfan" id="f9eb8dd8-fbf9-4f79-a6c8-e8f0e66b0ec6">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="水兵 Marine" />
@@ -585,12 +585,12 @@
       <property name="Artist" value="木美人" />
       <property name="Number" value="037" />
       <property name="Flavor" value="兴霸的军队简直就是水面上的一道风景，连换岗时的调动都那么有美感。" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="37" />
     </card>
     <card name="冷箭 Sudden Shot" id="a77ba3f4-ec98-4568-bbf1-8fe183f5ecad">
-      <property name="Cost" value="^1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="瞬发锦囊 Instant Stratagem" />
       <property name="Rarity" value="Common" />
@@ -598,12 +598,12 @@
       <property name="Artist" value="Liuheng" />
       <property name="Number" value="038" />
       <property name="Flavor" value="我本来也是一个将军，直到我的膝盖中了一箭。I used to be a general like you. Then I took an arrow in the knee." />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="38" />
     </card>
     <card name="庐江步兵 Infantry of Lujiang" id="754f2722-a41a-490a-8b20-bed3b291a61c">
-      <property name="Cost" value="^2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -615,24 +615,24 @@
       <property name="Artist" value="XXX" />
       <property name="Number" value="039" />
       <property name="Flavor" value="庐江步部仅千人，战时善水遁，人莫知其踪而陷。" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="39" />
     </card>
     <card name="落石 Rockfall" id="e0f636a2-f41b-48ef-beff-6a03e4f44de8">
-      <property name="Cost" value="^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="瞬发锦囊 Instant Stratagem" />
       <property name="Rarity" value="Uncommon" />
       <property name="Rules" value="落石对目标相对阵地为空的单位造成5点伤害。Rockfall deals 5 damage to target unit facing an empty position." />
       <property name="Artist" value="Liuheng" />
       <property name="Number" value="040" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="40" />
     </card>
     <card name="吕范 Lv Fan" id="c9fae5d7-12f6-48f6-9ab3-e275ed2267a6">
-      <property name="Cost" value="^^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将 General" />
@@ -644,12 +644,12 @@
       <property name="Artist" value="琛美弟奇" />
       <property name="Number" value="041" />
       <property name="Flavor" value="及权继其业，有吕范、朱然以为爪牙，分任授职，乘间伺隙，兵不妄动，故战少败而江南安。" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="41" />
     </card>
     <card name="孙权 Sun Quan" id="65c8a614-2d12-468b-9279-1340dfec39e0">
-      <property name="Cost" value="^^5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="主公 Lord" />
@@ -661,12 +661,12 @@
       <property name="Artist" value="张帅" />
       <property name="Number" value="042" />
       <property name="Flavor" value="继而不随，贤明立新。" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="42" />
     </card>
     <card name="万箭齐发 Thousand Arrows" id="6677da98-63f4-4030-8c76-14b51bd61361">
-      <property name="Cost" value="^4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Uncommon" />
@@ -674,24 +674,24 @@
       <property name="Artist" value="XXX" />
       <property name="Number" value="043" />
       <property name="Flavor" value="弓开如满月，箭走似流星。" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="43" />
     </card>
     <card name="无中生有 Fabrication" id="b992a42e-cbe8-44c9-a0fa-ff36a4982986">
-      <property name="Cost" value="^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Common" />
       <property name="Rules" value="你抓两张牌。Draw 2 cards." />
       <property name="Artist" value="L" />
       <property name="Number" value="044" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="44" />
     </card>
     <card name="掷矛手 Skirmisher" id="9d1eaa6a-1c5f-4da7-84c7-934d0faea1e2">
-      <property name="Cost" value="^3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -702,12 +702,12 @@
       <property name="PT Box" value="2 / 1" />
       <property name="Artist" value="SYMBOLK" />
       <property name="Number" value="045" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="45" />
     </card>
     <card name="周瑜 Zhou Yu" id="d5ae3d57-b5c6-4785-8564-30732edce3c1">
-      <property name="Cost" value="^^6" />
-      <property name="CMC" value="6" />
+      <property name="Cost" value="6" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Green" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="武将 General" />
@@ -718,12 +718,12 @@
       <property name="PT Box" value="4 / 4" />
       <property name="Artist" value="木美人" />
       <property name="Number" value="046" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="46" />
     </card>
     <card name="竹弓手 Bamboo Archer" id="ff3c6bc9-515c-2ef5-9312-b8437b6d3678">
-      <property name="Cost" value="^1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Green" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="弓兵 Archer" />
@@ -735,24 +735,24 @@
       <property name="Artist" value="HOOO" />
       <property name="Number" value="047" />
       <property name="Flavor" value="江河与丛林的地貌，使他们的箭术比中原人高上数倍。" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="47" />
     </card>
     <card name="刺杀 Assassinate" id="c2152484-4663-46a0-a5a5-39247a4eb1c8">
-      <property name="Cost" value="$$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Common" />
       <property name="Rules" value="消灭目标单位。Destroy target unit." />
       <property name="Artist" value="影紫C" />
       <property name="Number" value="048" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="48" />
     </card>
     <card name="地公将军·张宝 Zhang Bao, General of Earth" id="b5e18e88-d3f6-43b8-baa8-edf5cb1df171">
-      <property name="Cost" value="$$5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="黄巾/妖术师 Yellow-Turban Warlock" />
@@ -763,12 +763,12 @@
       <property name="PT Box" value="2 / 4" />
       <property name="Artist" value="L" />
       <property name="Number" value="049" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="49" />
     </card>
     <card name="貂蝉 Diao Chan" id="6579f728-7517-43e9-8efe-72338c310902">
-      <property name="Cost" value="$$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="女性 Female" />
@@ -779,12 +779,12 @@
       <property name="PT Box" value="1 / 1" />
       <property name="Artist" value="木美人" />
       <property name="Number" value="050" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="50" />
     </card>
     <card name="后宫内侍 Harem Servant" id="94b7e9fe-9bb6-4658-ad2f-3d9960e0800e">
-      <property name="Cost" value="$1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="宦官 Eunuch" />
@@ -796,12 +796,12 @@
       <property name="Artist" value="木美人" />
       <property name="Number" value="051" />
       <property name="Flavor" value="时下的宦官惹不得，若让他们恨起你来，还不如早早服毒自己了断的好。" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="51" />
     </card>
     <card name="华歆 Hua Xin" id="683eadca-ac95-4b8f-ba2e-ae45cf44e406">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="文官 Politician" />
@@ -812,12 +812,12 @@
       <property name="PT Box" value="2 / 3" />
       <property name="Artist" value="XXX" />
       <property name="Number" value="052" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="52" />
     </card>
     <card name="黄巾步兵 Infantry of the Yellow Turbans" id="a0dd2b3a-ead5-4fbb-adf0-677a99146b55">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="黄巾/步兵 Yellow-Turban Infantry" />
@@ -829,12 +829,12 @@
       <property name="Artist" value="G.G.G." />
       <property name="Number" value="053" />
       <property name="Flavor" value="这哪里是兵？分明是农民。一个黄头巾就让他们如此狂热，这是信仰还是愚蠢？" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="53" />
     </card>
     <card name="黄巾传道者 Preacher of the Yellow Turbans" id="1530129d-07a1-41d2-8efd-ef01ea2f6386">
-      <property name="Cost" value="$1" />
-      <property name="CMC" value="1" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="黄巾 Yellow-Turban" />
@@ -846,12 +846,12 @@
       <property name="Artist" value="Liuheng" />
       <property name="Number" value="054" />
       <property name="Flavor" value="杀死一个，又来一个，就好像之前那个复活了一样，这就是信仰之力吗？" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="54" />
     </card>
     <card name="黄巾大军 Army of the Yellow Turbans" id="d8e32eeb-5b86-46a5-a0fc-7f60cce478d8">
-      <property name="Cost" value="$7" />
-      <property name="CMC" value="7" />
+      <property name="Cost" value="7" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="黄巾/步兵 Yellow-Turban Infantry" />
@@ -863,12 +863,12 @@
       <property name="Artist" value="Xiaoi" />
       <property name="Number" value="055" />
       <property name="Flavor" value="说不上是信仰还是斗志还是仅仅被饥荒所迫，他们就那样铺天盖地而来，碾过所有尸体和没有生命的东西。" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="55" />
     </card>
     <card name="回天术 Resurrection" id="e63f38d9-026c-4858-bc58-404f54523195">
-      <property name="Cost" value="$$5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Uncommon" />
@@ -876,12 +876,12 @@
       <property name="Artist" value="L" />
       <property name="Number" value="056" />
       <property name="Flavor" value="据说太平道最可怕的常时就是能让死人复活，但那只是民间很不常见的一种医术罢了。" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="56" />
     </card>
     <card name="降头术 Tame Head" id="57e78453-678d-4a14-97e3-1f064bcec7bb">
-      <property name="Cost" value="$5" />
-      <property name="CMC" value="5" />
+      <property name="Cost" value="5" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="瞬发锦囊 Instant Stratagem" />
       <property name="Rarity" value="Common" />
@@ -889,12 +889,12 @@
       <property name="Artist" value="木美人" />
       <property name="Number" value="057" />
       <property name="Flavor" value="南方有蛮，诅咒于缠。无施无治，无力回天。" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="57" />
     </card>
     <card name="雷击 Lightning Strike" id="1f3b26ab-f731-42ad-b327-42163721652c">
-      <property name="Cost" value="$1" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="1" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="瞬发锦囊 Instant Stratagem" />
       <property name="Rarity" value="Common" />
@@ -902,12 +902,12 @@
       <property name="Artist" value="XXX" />
       <property name="Number" value="058" />
       <property name="Flavor" value="北方平原上的雷电可不长眼，管你是小兵还是将军。传说那是大贤良师的常时。" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="58" />
     </card>
     <card name="马元义 Ma Yuanyi" id="9d47a574-c33b-44f0-a564-2a892ac9dc60">
-      <property name="Cost" value="$$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="2" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="黄巾/武将 Yellow-Turban General" />
@@ -918,12 +918,12 @@
       <property name="PT Box" value="2 / 2" />
       <property name="Artist" value="撒呀酱" />
       <property name="Number" value="059" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="59" />
     </card>
     <card name="盲兵 Blind Soldier" id="ffc2dff0-8329-4e34-9756-2501bb6047c7">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="步兵 Infantry" />
@@ -935,12 +935,12 @@
       <property name="Artist" value="Sky" />
       <property name="Number" value="060" />
       <property name="Flavor" value="说不上是信仰还是斗志还是仅仅被饥荒所迫，他们就那样铺天盖地而来，碾过所有尸体和没有生命的东西。" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="60" />
     </card>
     <card name="平原义军 Rebel of Pingyuan" id="f56b3d65-b381-43ae-862d-cd8ef4c1d8fa">
-      <property name="Cost" value="$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="民兵 Militia" />
@@ -952,12 +952,12 @@
       <property name="Artist" value="蚂蚁君" />
       <property name="Number" value="061" />
       <property name="Flavor" value="响应而来的其实都是平民，他们拿起矛戈就精神抖擞了起来。汉王朝的号召力依然可观。" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="61" />
     </card>
     <card name="人公将军·张梁 Zhang Liang, General of Mankind" id="1f6b6ad5-f776-4465-9457-ab1502459179">
-      <property name="Cost" value="$4" />
-      <property name="CMC" value="4" />
+      <property name="Cost" value="4" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="无双单位 Legendary Unit" />
       <property name="Subtype" value="黄巾/武将 Yellow-Turban General" />
@@ -968,12 +968,12 @@
       <property name="PT Box" value="3 / 3" />
       <property name="Artist" value="Liuheng" />
       <property name="Number" value="062" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="62" />
     </card>
     <card name="亡国哀民 Refugee" id="34193cb1-42b8-4e6f-b2ee-bd7cc2717036">
-      <property name="Cost" value="$2" />
-      <property name="CMC" value="2" />
+      <property name="Cost" value="2" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="单位 Unit" />
       <property name="Subtype" value="百姓 Vulgar" />
@@ -984,23 +984,23 @@
       <property name="PT Box" value="1 / 4" />
       <property name="Artist" value="Mr_Sleeping" />
       <property name="Number" value="063" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="63" />
     </card>
     <card name="心神丧失 Mind Losing" id="1de4dd00-ab3a-422f-9a06-086970e38c4f">
-      <property name="Cost" value="$3" />
-      <property name="CMC" value="3" />
+      <property name="Cost" value="3" />
+      <property name="FPoint" value="1" />
       <property name="Color" value="Black" />
       <property name="Type" value="常时锦囊 Normal Stratagem" />
       <property name="Rarity" value="Common" />
       <property name="Rules" value="目标玩家弃两张手牌。Target player discard 2 cards." />
       <property name="Artist" value="livsinno" />
       <property name="Number" value="064" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="64" />
     </card>
     <card name="魏领土 Territory of Wei" id="45b8bda2-ad59-45fc-baff-88b62ec5261a">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Island" />
@@ -1008,11 +1008,11 @@
       <property name="Rules" value="3，将此领土翻为面向下：你抓一张牌。3, flip: draw a card." />
       <property name="Artist" value="july01" />
       <property name="Number" value="065" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="65" />
     </card>
     <card name="魏领土 Territory of Wei" id="326e0849-7a52-4af3-ba73-fd9a179b42b8">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Island" />
@@ -1020,11 +1020,11 @@
       <property name="Rules" value="3，将此领土翻为面向下：你抓一张牌。3, flip: draw a card." />
       <property name="Artist" value="july01" />
       <property name="Number" value="065" />
-      <property name="Faction" value="魏 Wei" />
+      <property name="Faction" value="魏" />
       <property name="MultiverseId" value="66" />
     </card>
     <card name="蜀领土 Territory of Shu" id="66c7fd09-d5b0-4c1a-a2c2-d56cf497cc80">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Mountain" />
@@ -1032,11 +1032,11 @@
       <property name="Rules" value="3，将此领土翻为面向下：你抓一张牌。3, flip: draw a card." />
       <property name="Artist" value="Xiaoi" />
       <property name="Number" value="067" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="67" />
     </card>
     <card name="蜀领土 Territory of Shu" id="2540d0ee-c762-4608-a7ad-99344c0b1d0a">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Mountain" />
@@ -1044,11 +1044,11 @@
       <property name="Rules" value="3，将此领土翻为面向下：你抓一张牌。3, flip: draw a card." />
       <property name="Artist" value="Xiaoi" />
       <property name="Number" value="068" />
-      <property name="Faction" value="蜀 Shu" />
+      <property name="Faction" value="蜀" />
       <property name="MultiverseId" value="68" />
     </card>
     <card name="吴领土 Territory of Wu" id="c466cef6-09d4-49a7-befc-2982b726ef05">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Forest" />
@@ -1056,11 +1056,11 @@
       <property name="Rules" value="3，将此领土翻为面向下：你抓一张牌。3, flip: draw a card." />
       <property name="Artist" value="Xiaoi" />
       <property name="Number" value="069" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="69" />
     </card>
     <card name="吴领土 Territory of Wu" id="f499eede-f0e0-41a6-8606-dcb9dafabccc">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Forest" />
@@ -1068,11 +1068,11 @@
       <property name="Rules" value="3，将此领土翻为面向下：你抓一张牌。3, flip: draw a card." />
       <property name="Artist" value="Xiaoi" />
       <property name="Number" value="070" />
-      <property name="Faction" value="吴 Wu" />
+      <property name="Faction" value="吴" />
       <property name="MultiverseId" value="70" />
     </card>
     <card name="群雄领土 Territory of Warlords" id="c63dbbc8-bdd4-4c77-a655-6d22577e8460">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Swamp" />
@@ -1080,11 +1080,11 @@
       <property name="Rules" value="3，将此领土翻为面向下：你抓一张牌。3, flip: draw a card." />
       <property name="Artist" value="july01" />
       <property name="Number" value="071" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="71" />
     </card>
     <card name="群雄领土 Territory of Warlords" id="4a767968-aad3-4478-b5e3-d51e0ea89006">
-      <property name="CMC" value="0" />
+      <property name="FPoint" value="0" />
       <property name="Color" value="Colorless" />
       <property name="Type" value="Basic Land" />
       <property name="Subtype" value="Swamp" />
@@ -1092,7 +1092,7 @@
       <property name="Rules" value="3，将此领土翻为面向下：你抓一张牌。3, flip: draw a card." />
       <property name="Artist" value="july01" />
       <property name="Number" value="072" />
-      <property name="Faction" value="群雄 Warlords" />
+      <property name="Faction" value="群雄" />
       <property name="MultiverseId" value="72" />
     </card>
   </cards>

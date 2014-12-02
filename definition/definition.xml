@@ -40,7 +40,7 @@
   </globalvariables>
   <card back="cards/back.jpg" front="cards/front.jpg" width="63" height="88" cornerRadius="2">
     <property name="Cost" type="String" />
-    <property name="CMC" type="String" textKind="Enum" />
+    <property name="FPoint" type="String" textKind="Enum" />
     <property name="Color" textKind="Tokens" type="String" />
     <property name="Type" type="String" textKind="Tokens" />
     <property name="Subtype" type="String" textKind="Tokens" />
@@ -186,6 +186,7 @@
       <cardaction menu="Move Card to Library" shortcut="ctrl+Y" execute="tolibrary" /> 
       <cardaction menu="Move to position in Library" shortcut="ctrl+shift+Y" execute="tolibraryposition" />      
     </group>
+    <!--
     <group name="Sideboard" visibility="me" width="63" height="88" icon="groups/sideboard.png" collapsed="True">
       <groupaction menu="Shuffle" execute="shuffle" />
     </group>
@@ -197,11 +198,10 @@
       <groupaction menu="Shuffle" execute="shuffle" />
       <cardaction menu="Play Card" default="True" execute="play" />
     </group>
+    -->
   </player>
   <deck>
     <section name="Main" group="Library" />
     <section name="Sideboard" group="Sideboard" />
-    <section name="Command Zone" group="Command Zone" />
-    <section name="Planes/Schemes" group="Planes/Schemes" />
   </deck>
 </game>

@@ -61,6 +61,36 @@
 		<block type="overlay" id="f-mardu" src="proxy/factions/mardu.png"><location x="0" y="0"/></block>
 		<block type="overlay" id="f-temur" src="proxy/factions/temur.png"><location x="0" y="0"/></block>
 
+        <block type="overlay" id="fp-wei01" src="counters/wei.png"><location x="300" y="30"/></block>
+        <block type="overlay" id="fp-wei02" src="counters/wei.png"><location x="277" y="30"/></block>
+        <block type="overlay" id="fp-wei03" src="counters/wei.png"><location x="254" y="30"/></block>
+        <block type="overlay" id="fp-wei04" src="counters/wei.png"><location x="231" y="30"/></block>
+        <block type="overlay" id="fp-wei05" src="counters/wei.png"><location x="208" y="30"/></block>
+        <block type="overlay" id="fp-wei06" src="counters/wei.png"><location x="185" y="30"/></block>
+        
+        <block type="overlay" id="fp-shu01" src="counters/shu.png"><location x="300" y="30"/></block>
+        <block type="overlay" id="fp-shu02" src="counters/shu.png"><location x="277" y="30"/></block>
+        <block type="overlay" id="fp-shu03" src="counters/shu.png"><location x="254" y="30"/></block>
+        <block type="overlay" id="fp-shu04" src="counters/shu.png"><location x="231" y="30"/></block>
+        <block type="overlay" id="fp-shu05" src="counters/shu.png"><location x="208" y="30"/></block>
+        <block type="overlay" id="fp-shu06" src="counters/shu.png"><location x="185" y="30"/></block>
+        
+        <block type="overlay" id="bg-wu" src="proxy/back/wu.jpg">      <location x="0" y="0" />    </block>
+        
+        <block type="overlay" id="fp-wu01" src="counters/wu.png"><location x="300" y="30"/></block>
+        <block type="overlay" id="fp-wu02" src="counters/wu.png"><location x="277" y="30"/></block>
+        <block type="overlay" id="fp-wu03" src="counters/wu.png"><location x="254" y="30"/></block>
+        <block type="overlay" id="fp-wu04" src="counters/wu.png"><location x="231" y="30"/></block>
+        <block type="overlay" id="fp-wu05" src="counters/wu.png"><location x="208" y="30"/></block>
+        <block type="overlay" id="fp-wu06" src="counters/wu.png"><location x="185" y="30"/></block>
+        
+        <block type="overlay" id="fp-qun01" src="counters/qun.png"><location x="300" y="30"/></block>
+        <block type="overlay" id="fp-qun02" src="counters/qun.png"><location x="277" y="30"/></block>
+        <block type="overlay" id="fp-qun03" src="counters/qun.png"><location x="254" y="30"/></block>
+        <block type="overlay" id="fp-qun04" src="counters/qun.png"><location x="231" y="30"/></block>
+        <block type="overlay" id="fp-qun05" src="counters/qun.png"><location x="208" y="30"/></block>
+        <block type="overlay" id="fp-qun06" src="counters/qun.png"><location x="185" y="30"/></block>
+        
 		<block type="text" id="title">
 			<location x="30" y="32" />
 			<text color="#000000" size="18" font="fonts/mplantin_symbols.ttf" />
@@ -71,7 +101,7 @@
 			<location x="31" y="31" />
 			<text color="#000000" size="18" font="fonts/mplantin_symbols.ttf" />
 			<border color="#000000" size="1" />
-			<wordwrap height="18" width="318" align="far" />
+			<wordwrap height="18" width="310" align="far" />
 		</block>
 		<block type="text" id="rarity">
 			<location x="31" y="160" />
@@ -98,7 +128,194 @@
 		</block>
 	</blocks>
 
-	<template src="proxy/back/c.jpg" default="True" >
+    
+    <!--魏国卡牌-->
+    <template src="proxy/back/c.jpg">
+		<matches>
+            <match name="Faction" value="魏"/>
+		</matches>
+		<overlayblocks>
+			<link block="bc" />
+            <!--blue cards-->
+			<link block="bu" />
+			<conditional>
+				<switch property="Type">
+					<case contains="Land" ><link block="bl" /><link block="rc" /><link block="tc" /></case>
+					<case contains="Artifact" break="True"><link block="ba" /><link block="ra" /><link block="ta" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Type">
+					<case contains="Enchantment Creature" ><link block="enchant" /></case>
+					<case contains="Enchantment Artifact" ><link block="enchant" /></case>
+				</switch>
+			</conditional>
+            <!--blue cards-->
+			<link block="ru" />
+            <link block="tu" />
+            <conditional>
+				<switch property="FPoint">
+					<case contains="1" ><link block="fp-wei01" /></case>
+					<case contains="2" ><link block="fp-wei01" /><link block="fp-wei02" /></case>
+                    <case contains="3" ><link block="fp-wei01" /><link block="fp-wei02" /><link block="fp-wei03" /></case>
+					<case contains="4" ><link block="fp-wei01" /><link block="fp-wei02" /><link block="fp-wei03" /><link block="fp-wei04" /></case>
+					<case contains="5" ><link block="fp-wei01" /><link block="fp-wei02" /><link block="fp-wei03" /><link block="fp-wei04" /><link block="fp-wei05" /></case>
+					<case contains="6" ><link block="fp-wei01" /><link block="fp-wei02" /><link block="fp-wei03" /><link block="fp-wei04" /><link block="fp-wei05" /><link block="fp-wei06" /></case>
+				</switch>
+			</conditional>
+		<link block="blank" />
+		</overlayblocks>
+		<textblocks>
+			<link block="title"><property name="Name" /></link>
+			<link block="cost"><property name="Cost" /></link>
+			<link block="rarity"><property name="Rarity" /></link>
+			<link block="type" separator=" --  "><property name="Type" /><property name="Subtype" /></link>
+			<link block="rules"><property name="Rules" /></link>
+			<link block="ptbox"><property name="PT Box" /></link>
+		</textblocks>
+	</template>
+
+    <!--蜀国卡牌-->
+    <template src="proxy/back/c.jpg">
+		<matches>
+            <match name="Faction" value="蜀"/>
+		</matches>
+		<overlayblocks>
+			<link block="bc" />
+            <!--red cards-->
+			<link block="br" />
+			<conditional>
+				<switch property="Type">
+					<case contains="Land" ><link block="bl" /><link block="rc" /><link block="tc" /></case>
+					<case contains="Artifact" break="True"><link block="ba" /><link block="ra" /><link block="ta" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Type">
+					<case contains="Enchantment Creature" ><link block="enchant" /></case>
+					<case contains="Enchantment Artifact" ><link block="enchant" /></case>
+				</switch>
+			</conditional>
+            <!--red cards-->
+			<link block="rr" />
+            <link block="tr" />
+            <conditional>
+				<switch property="FPoint">
+					<case contains="1" ><link block="fp-shu01" /></case>
+					<case contains="2" ><link block="fp-shu01" /><link block="fp-shu02" /></case>
+                    <case contains="3" ><link block="fp-shu01" /><link block="fp-shu02" /><link block="fp-shu03" /></case>
+					<case contains="4" ><link block="fp-shu01" /><link block="fp-shu02" /><link block="fp-shu03" /><link block="fp-shu04" /></case>
+					<case contains="5" ><link block="fp-shu01" /><link block="fp-shu02" /><link block="fp-shu03" /><link block="fp-shu04" /><link block="fp-shu05" /></case>
+					<case contains="6" ><link block="fp-shu01" /><link block="fp-shu02" /><link block="fp-shu03" /><link block="fp-shu04" /><link block="fp-shu05" /><link block="fp-shu06" /></case>
+				</switch>
+			</conditional>
+		<link block="blank" />
+		</overlayblocks>
+		<textblocks>
+			<link block="title"><property name="Name" /></link>
+			<link block="cost"><property name="Cost" /></link>
+			<link block="rarity"><property name="Rarity" /></link>
+			<link block="type" separator=" --  "><property name="Type" /><property name="Subtype" /></link>
+			<link block="rules"><property name="Rules" /></link>
+			<link block="ptbox"><property name="PT Box" /></link>
+		</textblocks>
+	</template>
+
+    <!--吴国卡牌-->
+    <template src="proxy/back/c.jpg">
+		<matches>
+            <match name="Faction" value="吴"/>
+		</matches>
+		<overlayblocks>
+			<link block="bc" />
+            <!--green cards-->
+            <link block="bg" />
+			<conditional>
+				<switch property="Type">
+					<case contains="Land" ><link block="bl" /><link block="rc" /><link block="tc" /></case>
+					<case contains="Artifact" break="True"><link block="ba" /><link block="ra" /><link block="ta" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Type">
+					<case contains="Enchantment Creature" ><link block="enchant" /></case>
+					<case contains="Enchantment Artifact" ><link block="enchant" /></case>
+				</switch>
+			</conditional>
+            <!--green cards-->
+            <link block="rg" />
+            <link block="tg" />
+            <conditional>
+				<switch property="FPoint">
+					<case contains="1" ><link block="fp-wu01" /></case>
+					<case contains="2" ><link block="fp-wu01" /><link block="fp-wu02" /></case>
+                    <case contains="3" ><link block="fp-wu01" /><link block="fp-wu02" /><link block="fp-wu03" /></case>
+					<case contains="4" ><link block="fp-wu01" /><link block="fp-wu02" /><link block="fp-wu03" /><link block="fp-wu04" /></case>
+					<case contains="5" ><link block="fp-wu01" /><link block="fp-wu02" /><link block="fp-wu03" /><link block="fp-wu04" /><link block="fp-wu05" /></case>
+					<case contains="6" ><link block="fp-wu01" /><link block="fp-wu02" /><link block="fp-wu03" /><link block="fp-wu04" /><link block="fp-wu05" /><link block="fp-wu06" /></case>
+				</switch>
+			</conditional>
+		<link block="blank" />
+		</overlayblocks>
+		<textblocks>
+			<link block="title"><property name="Name" /></link>
+			<link block="cost"><property name="Cost" /></link>
+			<link block="rarity"><property name="Rarity" /></link>
+			<link block="type" separator=" --  "><property name="Type" /><property name="Subtype" /></link>
+			<link block="rules"><property name="Rules" /></link>
+			<link block="ptbox"><property name="PT Box" /></link>
+		</textblocks>
+	</template>
+
+    <!--群雄卡牌-->
+    <template src="proxy/back/c.jpg">
+		<matches>
+            <match name="Faction" value="群雄"/>
+		</matches>
+		<overlayblocks>
+			<link block="bc" />
+            <!--black cards-->
+            <link block="bb" />
+			<conditional>
+				<switch property="Type">
+					<case contains="Land" ><link block="bl" /><link block="rc" /><link block="tc" /></case>
+					<case contains="Artifact" break="True"><link block="ba" /><link block="ra" /><link block="ta" /></case>
+				</switch>
+			</conditional>
+			<conditional>
+				<switch property="Type">
+					<case contains="Enchantment Creature" ><link block="enchant" /></case>
+					<case contains="Enchantment Artifact" ><link block="enchant" /></case>
+				</switch>
+			</conditional>
+            <!--black cards-->
+            <link block="rb" />
+            <link block="tb" />
+            <conditional>
+				<switch property="FPoint">
+					<case contains="1" ><link block="fp-qun01" /></case>
+					<case contains="2" ><link block="fp-qun01" /><link block="fp-qun02" /></case>
+                    <case contains="3" ><link block="fp-qun01" /><link block="fp-qun02" /><link block="fp-qun03" /></case>
+					<case contains="4" ><link block="fp-qun01" /><link block="fp-qun02" /><link block="fp-qun03" /><link block="fp-qun04" /></case>
+					<case contains="5" ><link block="fp-qun01" /><link block="fp-qun02" /><link block="fp-qun03" /><link block="fp-qun04" /><link block="fp-qun05" /></case>
+					<case contains="6" ><link block="fp-qun01" /><link block="fp-qun02" /><link block="fp-qun03" /><link block="fp-qun04" /><link block="fp-qun05" /><link block="fp-qun06" /></case>
+				</switch>
+			</conditional>
+		<link block="blank" />
+		</overlayblocks>
+		<textblocks>
+			<link block="title"><property name="Name" /></link>
+			<link block="cost"><property name="Cost" /></link>
+			<link block="rarity"><property name="Rarity" /></link>
+			<link block="type" separator=" --  "><property name="Type" /><property name="Subtype" /></link>
+			<link block="rules"><property name="Rules" /></link>
+			<link block="ptbox"><property name="PT Box" /></link>
+		</textblocks>
+	</template>
+    
+    
+    
+	<template src="proxy/back/c.jpg">
 		<matches>
 			<match name="Flags" value=""/>
 		</matches>
